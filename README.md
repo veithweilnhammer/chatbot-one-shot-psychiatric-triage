@@ -10,5 +10,11 @@ Veith Weilnhammer<sup>1,*</sup>, Lennart Luettgau<sup>2</sup>, Christopher Summe
 \* Corresponding authors: Matthew M Nour and Veith Weilnhammer
 
 ---
-This repository has been created to accompany the manuscript. The study code, psychiatric vignette corpus, model outputs, clinician ratings, and analysis files will be made publicly available here at the time of publication.
+## Repository status
+
+This repository has been created to accompany the manuscript.
+
+The study code, psychiatric vignette corpus, model outputs, clinician ratings, and analysis files will be made publicly available here **at the time of publication**.
+
+
 ---
