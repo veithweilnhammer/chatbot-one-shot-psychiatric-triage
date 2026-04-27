@@ -1,12 +1,12 @@
 # One-shot emergency psychiatric triage across 15 frontier AI chatbots
 
-**Veith Weilnhammer**$^{1,*}$, **Lennart Luettgau**$^{2}$, **Christopher Summerfield**$^{2,3}$, **Viknesh Sounderajah**$^{4}$, **Elise Wilkinson**$^{5}$, **Virgina Corno**$^{5}$, **Matthew M Nour**$^{4,5,1,*}$
+Veith Weilnhammer<sup>1,*</sup>, Lennart Luettgau<sup>2</sup>, Christopher Summerfield<sup>2,3</sup>, Viknesh Sounderajah<sup>4</sup>, Elise Wilkinson<sup>5</sup>, Virgina Corno<sup>5</sup>, Matthew M Nour<sup>4,5,1,*</sup>
 
-$^{1}$ Max Planck UCL Centre for Computational Psychiatry and Ageing Research, London, UK
-$^{2}$ UK AI Security Institute
-$^{3}$ Department of Experimental Psychology, University of Oxford, Oxford, UK
-$^{4}$ Microsoft AI, London, UK
-$^{5}$ Department of Psychiatry, University of Oxford, Oxford, UK
+<sup>1</sup> Max Planck UCL Centre for Computational Psychiatry and Ageing Research, London, UK  
+<sup>2</sup> UK AI Security Institute  
+<sup>3</sup> Department of Experimental Psychology, University of Oxford, Oxford, UK  
+<sup>4</sup> Microsoft AI, London, UK  
+<sup>5</sup> Department of Psychiatry, University of Oxford, Oxford, UK  
 \* Corresponding authors: Matthew M Nour and Veith Weilnhammer
 
 ---
