@@ -12,7 +12,7 @@ Veith Weilnhammer<sup>1,*</sup>, Lennart Luettgau<sup>2</sup>, Christopher Summe
 ---
 ## Repository status
 
-This repository has been created to accompany the manuscript.
+This repository has been created to accompany the above manuscript.
 
 The study code, psychiatric vignette corpus, model outputs, clinician ratings, and analysis files will be made publicly available here **at the time of publication**.
 
